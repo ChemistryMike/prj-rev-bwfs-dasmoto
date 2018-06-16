@@ -1,0 +1,9 @@
+Main header: Background picture (pattern), font-family: Helvetica, font-weight: bold, color: khaki, align-text: center, font-size: 100px
+
+Sub-headings: font-family: Helvetica, font-size: 32px, font-weight: bold, color: white,
+Subheading 1:  background-color: mediumspringgreen
+Subheading 2:  background-color: lightcoral
+Subheading 3:  background-color: skyblue
+
+Costs: font-family: Helvetica, font-weight: bold, color: blue
+
